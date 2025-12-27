@@ -8,3 +8,5 @@ Obtain your Authtoken and replace it in the following line of code:
 ngrok.set_auth_token("your authtoken")
 
 Web :https://v0-roas-prediction-dashboard.vercel.app/
+
+Unzip the “Code Nhom10” file to view the detailed process of exploratory data analysis and model development.
